@@ -5,7 +5,7 @@ Dedicated Server that broadcasts the Veels to help the Veel Network.
 Recommended to use Nw.js. However, you can run this in node directly as well.
 
 - Firstly, clone this repository locally on your device.
-- Run Npm install to install the pre-reuisite modules.
+- Run Npm install to install the prerequisite modules.
 
 ### Nw.js way
 1. Download the latest Nw.js from [the official Nw.js site](https://nwjs.io/).
