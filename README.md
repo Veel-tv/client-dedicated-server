@@ -9,8 +9,8 @@ Recommended to use Nw.js. However, you can run this in node directly as well.
 
 ### Nw.js way
 1. Download the latest Nw.js from [the official Nw.js site](https://nwjs.io/).
-2. Either copy all the Nw.js files into the root of where you donwloaded/cloned this repository to and run the executable "Nw". Or run the "Nw" executable from terminal and make the first argument the location you downloaded/cloned this repository.
+2. Either copy all the Nw.js files into the root of where you downloaded/cloned this repository to and run the executable "Nw". Or run the "Nw" executable from terminal and make the first argument the location you downloaded/cloned this repository.
  
 ### Node.js way
 1. Open terminal or CMD and go to the directory you downloaded/cloned this repository.
-2. Run Node and make the first argument be js/main.js. Or copy main.js and change "main" from "index.html" to "main.js" and run Node without arguments or just the main directory as the first argument.
+2. Run Node and make the first argument be js/main.js. Or change "main" from "index.html" to "js/main.js" and run Node without arguments or just the main directory as the first argument.
